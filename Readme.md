@@ -23,7 +23,7 @@ Goodcabs, a cab service company focused on tier-2 cities in India, aims to suppo
 ![Problem Statement](./SOLUTIONS/DASHBOARD%20PAGES/problem%20statement.png)
 
 ### 1️⃣ KPI's & Overview  
-![KPI's & Overview](./SOLUTIONS/DASHBOARD%20PAGES/1)%20KPI'S%20&%20Overview%20.png)
+![KPI's & Overview](./SOLUTIONS/DASHBOARD%20PAGES/1)KPI'S%20&%20Overview.png)
 
 ### 2️⃣ City Performance  
 ![City Performance](./SOLUTIONS/DASHBOARD%20PAGES/2)%20City%20Performance%20.png)
