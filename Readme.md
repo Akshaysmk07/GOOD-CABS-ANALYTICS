@@ -17,7 +17,7 @@ Goodcabs, a cab service company focused on tier-2 cities in India, aims to suppo
 
 ---
 
-## 📊 Power BI Dashboard Pages  
+## 🧩 Power BI Dashboard Pages  
 
 ### 📝 Problem Statement  
 ![Problem Statement](./SOLUTIONS/DASHBOARD%20PAGES/problem%20statement.png)
@@ -26,16 +26,16 @@ Goodcabs, a cab service company focused on tier-2 cities in India, aims to suppo
 ![KPI's & Overview](./SOLUTIONS/DASHBOARD%20PAGES/1)KPI'S%20&%20Overview.png)
 
 ### 2️⃣ City Performance  
-![City Performance](./SOLUTIONS/DASHBOARD%20PAGES/2)%20City%20Performance%20.png)
+![City Performance](./SOLUTIONS/DASHBOARD%20PAGES/2)City%20Performance.png)
 
 ### 3️⃣ Ratings & Passenger Behavior  
-![Ratings & Passenger Behavior](./SOLUTIONS/DASHBOARD%20PAGES/3)%20Ratings%20&%20Passenger%20Behavior.png)
+![Ratings & Passenger Behavior](./SOLUTIONS/DASHBOARD%20PAGES/3)Ratings%20&%20Passenger%20Behavior.png)
 
 ### 4️⃣ Demand & Seasonality  
-![Demand & Seasonality](./SOLUTIONS/DASHBOARD%20PAGES/4)%20Demand%20&%20Seasonality.png)
+![Demand & Seasonality](./SOLUTIONS/DASHBOARD%20PAGES/4)Demand%20&%20Seasonality.png)
 
 ### 5️⃣ Repeat Passenger Analysis  
-![Repeat Passenger Analysis](./SOLUTIONS/DASHBOARD%20PAGES/5)%20Repeat%20Passenger%20Analysis.png)
+![Repeat Passenger Analysis](./SOLUTIONS/DASHBOARD%20PAGES/5)Repeat%20Passenger%20Analysis.png)
 
 ### 6️⃣ Target Achievement  
 ![Target Achievement](./SOLUTIONS/DASHBOARD%20PAGES/6)Target%20Achievement.png)
