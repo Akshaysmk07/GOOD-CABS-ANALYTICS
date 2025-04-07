@@ -27,19 +27,24 @@ Goodcabs, a cab service company focused on tier-2 cities in India, aims to suppo
 
 
 ### 2️⃣ City Performance  
-![City Performance](./SOLUTIONS/DASHBOARD%20PAGES/2)City%20Performance.png)
+![City Performance](./SOLUTIONS/DASHBOARD%20PAGES/2%29City%20Performance.png)
+
 
 ### 3️⃣ Ratings & Passenger Behavior  
-![Ratings & Passenger Behavior](./SOLUTIONS/DASHBOARD%20PAGES/3)Ratings%20&%20Passenger%20Behavior.png)
+![Ratings & Passenger Behavior](./SOLUTIONS/DASHBOARD%20PAGES/3%29Ratings%20%26%20Passenger%20Behavior.png)
+
 
 ### 4️⃣ Demand & Seasonality  
-![Demand & Seasonality](./SOLUTIONS/DASHBOARD%20PAGES/4)Demand%20&%20Seasonality.png)
+![Demand & Seasonality](./SOLUTIONS/DASHBOARD%20PAGES/4%29Demand%20%26%20Seasonality.png)
+
 
 ### 5️⃣ Repeat Passenger Analysis  
-![Repeat Passenger Analysis](./SOLUTIONS/DASHBOARD%20PAGES/5)Repeat%20Passenger%20Analysis.png)
+![Repeat Passenger Analysis](./SOLUTIONS/DASHBOARD%20PAGES/5%29Repeat%20Passenger%20Analysis.png)
+
 
 ### 6️⃣ Target Achievement  
-![Target Achievement](./SOLUTIONS/DASHBOARD%20PAGES/6)Target%20Achievement.png)
+![Target Achievement](./SOLUTIONS/DASHBOARD%20PAGES/6%29Target%20Achievement.png)
+
 
 ---
 
